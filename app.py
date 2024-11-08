@@ -14,7 +14,7 @@ st.subheader('Summarize URL')
 
 ## Get the Groq API Key and url(YT or website)to be summarized
 with st.sidebar:
-    groq_api_key=st.text_input("Groq API Key",value="",type="password")
+    groq_api_key=st.text_input("Groq API Key",value=" ",type="password")
 
 generic_url=st.text_input("URL",label_visibility="collapsed")
 
