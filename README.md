@@ -2,6 +2,8 @@
 
 Welcome to the **URL Content Summarization App**! This is a lightweight, Streamlit-based application that summarizes long-form content from webpages and YouTube videos. Just paste a link, and our model will handle the rest, extracting key insights and presenting you with a concise summary. Perfect for quickly digesting lengthy articles or video transcripts! 📖✨
 
+👉 **[Try the app online!](https://url-content-summarization.streamlit.app/)**
+
 ## 🚀 Features
 
 - **Webpage & YouTube Summarization**: Enter any article URL or YouTube link, and get a brief summary.
