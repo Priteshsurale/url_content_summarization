@@ -8,6 +8,7 @@ from langchain_community.document_loaders import YoutubeLoader,UnstructuredURLLo
 ## streamlit APP
 st.set_page_config(page_title="LangChain: Summarize Text From YT or Website", page_icon="🦜")
 st.title("🦜 LangChain: Summarize Text From YT or Website")
+st.write("Before Clicking Summarize Button Add Your GROQ API KEY")
 st.subheader('Summarize URL')
 
 
